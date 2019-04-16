@@ -1,0 +1,14 @@
+boto==2.38.0
+Django==2.1.7
+django-bower==5.0.4
+django-crispy-forms==1.7.2
+django-rest-auth==0.9.3
+django-rest-framework==0.1.0
+django-simple-history==2.7.0
+django-storages-redux==1.2.3
+djangorestframework==3.9.0
+djangorestframework-stubs==0.3.0
+Pygments==2.2.0
+python-decouple==2.3
+pytz==2018.7
+six==1.11.0
